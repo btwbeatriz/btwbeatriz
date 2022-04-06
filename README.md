@@ -1,16 +1,30 @@
-### Hi there 👋
+### Olá!👋
 
-<!--
-**btwbeatriz/btwbeatriz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Estudando: Análise e Desenvolvimento de Sistemas
+- Aprendendo:
+<div style="display: inline_block"><br>
+    <img align="center" alt="html5" height="30" widht="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+    <img align="center" alt="css3" height="30" widht="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />   
+    <img align="center" alt="javascript" height="30" widht="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+    <img align="center" alt="java" height="30" widht="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" />
+    <img align="center" alt="python" height="30" widht="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+    <img align="center" alt="node" height="30" widht="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" />
+   
+  </div> <br>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+ <a href="https://github.com/btwbeatriz">
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=btwbeatriz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=btwbeatriz&layout=compact&langs_count=16&theme=dark"/>
+ </div>
+  
+ ##
+  
+  <div>
+ <a href="https://instagram.com/btwbeatrizz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href="https://www.twitch.tv/btwbeatriz" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+ <a href ="mailto:beatriz.ffreitas@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
+  </div>
+  <div>
+  <img align="left" alt="pikachu" height="100" <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/d5ea97c1-5218-4234-85e3-0a8aaa5a4153/dbakow8-844d413a-4af0-4806-a74a-d1aae46ef537.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2Q1ZWE5N2MxLTUyMTgtNDIzNC04NWUzLTBhOGFhYTVhNDE1M1wvZGJha293OC04NDRkNDEzYS00YWYwLTQ4MDYtYTc0YS1kMWFhZTQ2ZWY1MzcuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.UCFEIIy1hgQ0bZec4jtGRXj4tOR_UNPqG1Lm8XgKJTc"/> 
+  </div>
