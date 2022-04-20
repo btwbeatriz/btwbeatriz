@@ -1,6 +1,4 @@
-### Olá!👋
-
-- Estudando: Análise e Desenvolvimento de Sistemas
+### Olá!👋 Sou a Beatriz, tenho 24 anos e estou estudando Análise e Desenvolvimento de Sistemas na FIAP.
 - Aprendendo:
 <div style="display: inline_block"><br>
     <img align="center" alt="html5" height="30" widht="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
